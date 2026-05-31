@@ -1,0 +1,8 @@
+numpy>=2.0.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scikit-learn>=1.5.0
+streamlit>=1.41.0
+wbdata>=1.1.0
+openpyxl>=3.1.5
